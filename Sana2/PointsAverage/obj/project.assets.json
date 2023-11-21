@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Sana02\\PointsAverage\\PointsAverage.csproj",
+      "projectUniqueName": "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj",
       "projectName": "PointsAverage",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Sana02\\PointsAverage\\PointsAverage.csproj",
+      "projectPath": "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Sana02\\PointsAverage\\obj\\",
+      "outputPath": "C:\\sana2\\Sana2\\PointsAverage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

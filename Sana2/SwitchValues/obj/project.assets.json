@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sana2\\Sana2\\QuadraticEquation\\QuadraticEquation.csproj",
-      "projectName": "QuadraticEquation",
-      "projectPath": "C:\\sana2\\Sana2\\QuadraticEquation\\QuadraticEquation.csproj",
+      "projectUniqueName": "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj",
+      "projectName": "SwitchValues",
+      "projectPath": "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\sana2\\Sana2\\QuadraticEquation\\obj\\",
+      "outputPath": "C:\\sana2\\Sana2\\SwitchValues\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

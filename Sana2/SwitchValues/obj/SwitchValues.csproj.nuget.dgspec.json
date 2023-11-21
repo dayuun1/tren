@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj": {}
+    "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj": {}
   },
   "projects": {
-    "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj": {
+    "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj",
-        "projectName": "PointsAverage",
-        "projectPath": "C:\\sana2\\Sana2\\PointsAverage\\PointsAverage.csproj",
+        "projectUniqueName": "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj",
+        "projectName": "SwitchValues",
+        "projectPath": "C:\\sana2\\Sana2\\SwitchValues\\SwitchValues.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\sana2\\Sana2\\PointsAverage\\obj\\",
+        "outputPath": "C:\\sana2\\Sana2\\SwitchValues\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
